@@ -10,3 +10,8 @@ Changelog: 21.09.2019.
 ---------------------
 
 Changes to the assets folder
+
+Changelog: 30.12.2019.
+-----------------------
+
+Redesigned Theme
